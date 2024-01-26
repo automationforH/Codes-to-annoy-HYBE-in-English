@@ -4,7 +4,7 @@
 2. Click Start Scripting
 3. Log in with your Gmail you want to send the emails from
 4. Click New Project
-5. Paste the codes from here one-by-one (You can add your email here to ensure it’s working):
+5. Paste the codes from "Letter 1" and "Letter 2" (You can check with just your email here to ensure it’s working):
 6. Replace [YOUR NAME] with your name
 7. Click Save
 8. In the menu on the left, click Triggers
