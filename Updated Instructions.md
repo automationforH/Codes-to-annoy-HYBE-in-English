@@ -8,7 +8,7 @@
   - If you get an email, everything's clear & you can update the recipient emails to the HYBE emails given by A4P.
     
 5. Replace [YOUR NAME] with your name in the code
-6. Click on Save
+6. Click on Save.
 7. Test the code by clicking on Run.
 
 8. If you get an error message saying "Too many requests" or "Too many sent," DON'T WORRY.
