@@ -5,6 +5,7 @@ function sendRecurringLetter() {
   var name = "[YOUR NAME]";
   ////////// STOP HERE  ////////// 
 
+
 // Array of possible subject lines
   var subjects = [
     "URGENT: Reconsidering HYBE's Collaboration with Scooter Braun and Divestment from Zionist Brands",
