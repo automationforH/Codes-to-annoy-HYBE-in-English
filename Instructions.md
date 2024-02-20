@@ -17,5 +17,5 @@
 15. You can test the code by changing the email recipients to your email, and clicking Run.
   - If you get an email, everything's clear & you can update the recipient emails to HYBE emails.
 16. Change email back to ones given by A4P (given in the codes as well).
-17. Repeat the same process for "Letter 2" from here: tinyurl.com/codes-to-annoy-HYBE
+17. Repeat the same process for "Letter 2" from [here](https://tinyurl.com/codes-to-annoy-HYBE)
 18. To end the automatic emails, go back to Triggers, click the three dots on the right hand side, and click on Delete Trigger.
