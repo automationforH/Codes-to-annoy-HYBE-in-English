@@ -1,0 +1,34 @@
+# Different Subject Lines to Avoid Spam
+
+Option Set 1:
+
+// Array of possible subject lines
+  var subjects = [
+    "[URGENT] Demanding HYBE To Divest From Zionism, Zionist Collaborators & Companies and Remove Scooter Braun",
+    "Action Needed: HYBE's Divestment and Removal of Scooter Braun",
+    "Urgent Appeal: HYBE's Divestment Imperative to Disassociate from Zionism, Zionist Brands and Scooter Braun",
+    "Demanding Immediate Action: HYBE's Divestment Strategy from Zionism & the Scooter Braun Affiliation",
+    "Pressing Concerns: HYBE's Urgent Need to Divest from Zionism, Including the Scooter Braun Dilemma"
+  ];
+
+Option Set 2:
+
+	// Array of possible subject lines
+  var subjects = [
+    "URGENT: Reconsidering HYBE's Collaboration with Scooter Braun and Divestment from Zionist Brands",
+    "Time-Sensitive: Urging HYBE's Divestment from Zionism, Addressing Scooter Braun's Role",
+    "Critical Call to Action: HYBE's Urgent Divestment from Zionism & Scooter Braun",
+    "Demanding Immediate Action: HYBE's Divestment Strategy from Zionism & the Scooter Braun Affiliation",
+    "Attention Required: HYBE's Strategic Divestment Decision and the Scooter Braun Connection"
+  ];
+
+Option Set 3:
+
+// Array of possible subject lines
+  var subjects = [
+    "[URGENT] Urging HYBE's Divestment from Zionism, Zionist Collaborators, and Removal of Scooter Braun",
+    "Take Action Now: HYBE's Urgent Divestment and Scooter Braun Removal Required",
+    "Critical Appeal: HYBE's Immediate Divestment to Break Ties with Zionism, Zionist Brands, and Scooter Braun",
+    "Immediate Demand: HYBE's Vital Divestment Plan from Zionism and the Scooter Braun Connection",
+    "Addressing Urgency: HYBE's Imperative Divestment from Zionism, Emphasizing the Scooter Braun Dilemma"
+  ];
