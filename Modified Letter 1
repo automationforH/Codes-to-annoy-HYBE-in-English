@@ -5,6 +5,7 @@ function sendRecurringEmail() {
   var name = "[YOUR NAME]";
   ////////// STOP HERE  ////////// 
 
+
 // Array of possible subject lines
   var subjects = [
     "[URGENT] Demanding HYBE To Divest From Zionism, Zionist Collaborators & Companies and Remove Scooter Braun",
